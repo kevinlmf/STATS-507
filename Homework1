@@ -1,1 +1,7 @@
-
+#Chapter 1 Exercise 3,5,6,8
+#Exercise 3
+ans="""
+for interpreter we can directly run with it after writting the code
+however for compiler we have to cimpile it through the program first after writting the code
+and then we are able to excute it and this make the speed much slower compared to the interprer
+"""
